@@ -1,20 +1,25 @@
 ## 👋 About Me
 
-> Training as a WorldSkills national team candidate
-> Software Application Development.
+> **WorldSkills National Team Candidate**  
+> Training in **Software Application Development**  
+> Focused on **Java Backend & Problem Solving**
+
+<br>
 
 ## 🛠️ Tech Stacks
 
 <p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
-<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white">
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white">
-<img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white">
-<img src="https://img.shields.io/badge/Visual%20Studio%202022-5C2D91?style=flat-square&logo=visual-studio&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-6B7280?style=flat-square&logo=MySQL&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Java-6B7280?style=flat-square&logo=Java&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/C%23-6B7280?style=flat-square&logo=c-sharp&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Eclipse-6B7280?style=flat-square&logo=Eclipse&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/MS%20SQL%20Server-6B7280?style=flat-square&logo=microsoft-sql-server&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Visual%20Studio%202022-6B7280?style=flat-square&logo=visual-studio&logoColor=white">
 </p>
 
-## No one will deny that my goal is to be a tourist.
+<br>
+
+## 🧠 BOJ Profile
 
 <p>
 <a href="https://solved.ac/leeple">
@@ -26,5 +31,19 @@
 </a>
 </p>
 
-## My Goal
-`🥇 WorldSkills 49th 1st`
+<br>
+
+## 🎯 My Goal
+
+> 🥇 **WorldSkills 49th – Gold Medal**  
+> Becoming a **top-level Software Developer**
+
+<br>
+
+---
+
+<p align="center">
+<sub style="color:gray">
+Building skills step by step, quietly but consistently.
+</sub>
+</p>
