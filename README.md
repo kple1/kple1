@@ -9,4 +9,6 @@
 <img src="https://img.shields.io/badge/Visual%20Studio%202022-5C2D91?style=flat-square&logo=visual-studio&logoColor=white">
 </p>
 
+## No one will deny that my goal is to be a tourist.
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=leeple)](https://solved.ac/leeple)
