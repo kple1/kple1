@@ -8,14 +8,14 @@
 <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white">
 <img src="https://img.shields.io/badge/Visual%20Studio%202022-5C2D91?style=flat-square&logo=visual-studio&logoColor=white">
 </p>
-
-
-
+<br>
+<br>
+<br>
 ## No one will deny that my goal is to be a tourist.
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=leeple)](https://solved.ac/leeple)
-
-
-
+<br>
+<br>
+<br>
 ## My Goal
 `🥇 WorldSkills 49th 1st`
