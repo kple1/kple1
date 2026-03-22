@@ -8,4 +8,5 @@
         <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white">
         <img src="https://img.shields.io/badge/Visual%20Studio%202022-5C2D91?style=flat-square&logo=visual-studio&logoColor=white">
     </div>
+    [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=leeple)](https://solved.ac/leeple)
 </div>
