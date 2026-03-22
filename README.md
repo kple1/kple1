@@ -13,7 +13,9 @@
 
 ## No one will deny that my goal is to be a tourist.
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=leeple)](https://solved.ac/leeple)
+<a href="https://solved.ac/leeple">
+    <img src="http://mazandi.herokuapp.com/api?handle=leeple&theme=warm"/>
+</a>
 <br>
 <br>
 ## My Goal
