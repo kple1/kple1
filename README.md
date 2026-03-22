@@ -4,7 +4,6 @@
 > Training in **Software Application Development**  
 > Focused on **Full Stack Developer**
 
-<br>
 
 ## 🛠️ Tech Stacks
 
@@ -17,7 +16,6 @@
 <img src="https://img.shields.io/badge/Visual%20Studio%202022-6B7280?style=flat-square&logo=visual-studio&logoColor=white">
 </p>
 
-<br>
 
 ## 🧠 BOJ Profile
 
@@ -31,7 +29,6 @@
 </a>
 </p>
 
-<br>
 
 ## 🎯 My Goal
 
