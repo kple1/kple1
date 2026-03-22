@@ -1,9 +1,7 @@
 ## 👋 About Me
 
-```text
 > Training as a WorldSkills national team candidate
 > Software Application Development.
-```
 
 ## 🛠️ Tech Stacks
 
