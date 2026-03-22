@@ -2,7 +2,7 @@
 
 > **WorldSkills National Team Candidate**  
 > Training in **Software Application Development**  
-> Focused on **Java Backend & Problem Solving**
+> Focused on **Full Stack Developer**
 
 <br>
 
