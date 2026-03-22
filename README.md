@@ -1,3 +1,10 @@
+## 👋 About Me
+
+```text
+> Training as a WorldSkills national team candidate
+>
+```
+
 ## 🛠️ Tech Stacks
 
 <p>
