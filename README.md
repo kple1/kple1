@@ -17,16 +17,10 @@
 </p>
 
 
-## 🧠 BOJ Profile
+## 🧠 Git Profile
 
 <p>
-<a href="https://solved.ac/leeple">
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj=leeple">
-</a>
-&nbsp;&nbsp;
-<a href="https://solved.ac/leeple">
-    <img src="http://mazandi.herokuapp.com/api?handle=leeple&theme=warm">
-</a>
+[![Git Ranker](https://www.git-ranker.com/api/v1/badges/MDQ6VXNlcjg2NDA4NzY5)](https://www.git-ranker.com/ko/users/kple1)
 </p>
 
 
