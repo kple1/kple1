@@ -17,13 +17,6 @@
 </p>
 
 
-## 🧠 Git Profile
-
-<p>
-[![Git Ranker](https://www.git-ranker.com/api/v1/badges/MDQ6VXNlcjg2NDA4NzY5)](https://www.git-ranker.com/ko/users/kple1)
-</p>
-
-
 ## 🎯 My Goal
 
 > 🥇 **WorldSkills 49th – Gold Medal**  
